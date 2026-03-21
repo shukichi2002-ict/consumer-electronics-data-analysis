@@ -3,6 +3,11 @@
 ##  Objective
 Analyze consumer electronics sales data to identify trends, demand patterns, and business insights.
 
+## Dataset 
+- Source: Public sales dataset from GitHub  
+- Author: Deepanshu Verma  
+- Link: https://github.com/Deepanshu0154/Data-Analysis/tree/main/Sales%20Analysis
+
 ##  Tools
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook
