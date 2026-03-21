@@ -7,6 +7,7 @@ Analyze consumer electronics sales data to identify trends, demand patterns, and
 - Source: Public sales dataset from GitHub  
 - Author: Deepanshu Verma  
 - Link: https://github.com/Deepanshu0154/Data-Analysis/tree/main/Sales%20Analysis
+- The dataset was used for educational and analytical purposes
 
 ##  Tools
 - Python (Pandas, Matplotlib)
